@@ -1,0 +1,7 @@
+C:\Users\Mike\source\repos\exercicio matriz\bin\Debug\exercicio matriz.exe.config
+C:\Users\Mike\source\repos\exercicio matriz\bin\Debug\exercicio matriz.exe
+C:\Users\Mike\source\repos\exercicio matriz\bin\Debug\exercicio matriz.pdb
+C:\Users\Mike\source\repos\exercicio matriz\obj\Debug\exercicio matriz.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\exercicio matriz\obj\Debug\exercicio matriz.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\exercicio matriz\obj\Debug\exercicio matriz.exe
+C:\Users\Mike\source\repos\exercicio matriz\obj\Debug\exercicio matriz.pdb
